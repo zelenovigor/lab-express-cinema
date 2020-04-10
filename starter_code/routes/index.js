@@ -50,3 +50,8 @@ module.exports = router;
 //   “iteration 4”,
 //   “index.js - create a new get route /movie/:movieId that will find the movie through using the req.params.movieId then render movie.hbs and pass the movie found”,
 //   “movie.hbs - display the theMovie information using hbs notation”
+
+
+
+
+// test test test test test test test test
